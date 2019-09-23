@@ -9,7 +9,7 @@ Installation Steps
 
 Please follow these steps to install the SSLCOMMERZ Payment Gateway module.
 
-Step 1: Download module from https://github.com/sslcommerz/SSLCOMMERZ_MAGENTO_2.X_NewAPI_V1.3 .
+Step 1: Download module from https://github.com/sslcommerz/New-Magento-V2.x.x-PaymentGateway-V4 .
 
 Step 2: Log in to your server using FTP or Cpanel.
 
@@ -60,4 +60,4 @@ For any issue, feel free to contact any time.
 - More info: https://www.sslcommerz.com
 
 
-© 2019 SSLCOMMERZ ALL RIGHTS RESERVED
+Â© 2019 SSLCOMMERZ ALL RIGHTS RESERVED
